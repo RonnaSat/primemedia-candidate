@@ -26,14 +26,16 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
+
+## Try Demo
+
+https://ronnasat.github.io/primemedia-candidate/
+
+## Limitations
+
+This project will become private 15 days after the assignment is completed. Please do not use it for any other purposes.
