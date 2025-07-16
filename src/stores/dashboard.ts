@@ -17,7 +17,7 @@ export const useDashboardStore = defineStore(
     const loading = ref(true)
 
     const loadTitanicData = () => {
-      Papa.parse('/TitanicDataset.csv', {
+      Papa.parse('./TitanicDataset.csv', {
         download: true,
         header: true,
         dynamicTyping: true,
